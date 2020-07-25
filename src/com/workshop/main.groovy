@@ -7,6 +7,7 @@ import com.workshop.stages.*
 def main(script) {
    // Object initialization
    c = new Config()
+ spostbuild = new postbuild()
    sprebuild = new prebuild()
    sbuild = new build()
    spostbuild = new postbuild()
